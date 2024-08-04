@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @justOleh
 - 👀 I’m interested in Machine Learning
 - I'm having expertise in Computer Vision
-- In love with Reinforcement Learning
-- 💞️ I’m looking to collaborate on [teleg](https://github.com/justOleh/telegram-notifier) and [Gray images to Color](https://github.com/justOleh/Gray2Color)
 - 📫 You can reach me via LinkedIn [link](https://www.linkedin.com/in/oleh-venhryniuk-419865171/)
 
 <!---
